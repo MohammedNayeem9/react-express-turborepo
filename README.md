@@ -38,7 +38,7 @@ Follow these steps to clone the repository and install the dependencies:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/your-username/react-express.git
+   git clone https://github.com/MohammedNayeem9/react-express-turborepo.git
 
    ```
 
