@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 
 Follow these steps to clone the repository and install the dependencies:
 
-1. **Clone the Repository**
+1. **Clone the Repository or Download ZIP**
 
    Open your terminal and run the following command:
 
